@@ -1,12 +1,32 @@
-# React + Vite
+<img width="1651" height="926" alt="Screenshot" src="https://github.com/user-attachments/assets/b2aa990c-4e83-4182-81d2-5b02e8551021" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Movie Website
 
-Currently, two official plugins are available:
+A simple and aesthetic movie website built using React and Tailwind CSS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- Search and browse movies
+- Responsive and clean UI
+- Debounced input for optimized search
+- Built with React 19 and Vite
+- Styled using Tailwind CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Vite
+- React Hooks
+- use-debounce (custom hook)
+
+## 
+<img width="1651" height="926" alt="Screenshot" src="https://github.com/user-attachments/assets/62818a89-32c1-4edb-9c10-d07b459f8774" />
+
+## 🛠️ Setup Instructions
+
+```bash
+git clone https://github.com/Ayeesha02/Movie-website.git
+cd Movie-website
+npm install
+npm run dev
